@@ -1,0 +1,12 @@
+Log created: 2022-01-20T05:00:02.393273000Z
+Process ID:  429682 (0x68e72)
+Parent PID:  1 (0x1)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: vbox01_default_1640545413050_69939
+Arg[3]: --startvm
+Arg[4]: bf4a9f5a-e3dd-4cae-a74f-3ff8509375eb
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

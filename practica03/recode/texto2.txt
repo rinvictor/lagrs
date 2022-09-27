@@ -1,0 +1,10 @@
+Est ́andar propuesto para todos los Linux y para los UNIX que
+quieran unirse. A ̃no 1994. Versi ́on actual: 3.0 (junio 2015)
+Dos criterios
+¿Un fichero puede almacenarse en una m ́aquina y usarse en otra?
+S ́ı: Compartibles. (shareable)
+No: No compartibles. (unshareable)
+¿Un fichero puede cambiar sin intervenci ́on del administrador?
+S ́ı: Din ́amicos.
+No: Est ́aticos. Pueden almacenarse el modo s ́olo-lectura.
+Copias de seguridad menos frecuentes

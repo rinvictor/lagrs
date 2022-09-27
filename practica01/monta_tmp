@@ -1,0 +1,4 @@
+#!/bin/bash
+sshfs vrincon@f-l2108-pc05.aulas.etsit.urjc.es:/tmp $HOME/lagrs/practica01/tmp01 -o nonempty
+sshfs vincon@f-l2108-pc07.aulas.etsit.urjc.es:/tmp $HOME/lagrs/practica01/tmp02 -o nonempty
+sshfs vrincon@f-l2108-pc08.aulas.etsit.urjc.es:/tmp $HOME/lagrs/practica01/tmp03 -o nonempty
